@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>About me</title>
+        <title>About</title>
         <meta name="author" content="Hridaya Bijayananda">
         <meta name="description" content="Group 29's about page">
         <meta name="keywords" content="HTML, PHP, Angular, CS-312">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <header>
